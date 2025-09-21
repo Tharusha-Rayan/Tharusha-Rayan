@@ -1,132 +1,135 @@
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"> Welcome to My Digital Space
+<!-- =========================
+     Professional GitHub README
+     For: Tharusha Rayan
+     Clean, minimal, and recruiter-friendly
+========================= -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=Tharusha%20Rayan&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Creating%20Scalable%20Solutions%20|%20Full%20Stack%20Developer%20%7C%20Embedded%20Systems&descAlignY=55&descSize=18" width="100%" />
-</div>
 
-<div align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Software+Engineering+Intern+%F0%9F%9A%80;Full+Stack+Developer+%F0%9F%92%BB;Embedded+Systems+Enthusiast+%E2%9C%A8;Problem+Solver+%F0%9F%A7%A9;Tech+Explorer+%F0%9F%8C%9F)](https://git.io/typing-svg)
-  
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
+# Tharusha Rayan  
+**Software Engineering Intern · Full-Stack Developer · Embedded Systems Enthusiast**
 
-<br clear="right"/>
-
-## 👨‍💻 About Me  
-
-<p align="center">
-  I'm a <b>Software Engineering undergraduate</b> at the <b>University of Moratuwa</b>, passionate about <b>Full Stack Development</b> and <b>Embedded Systems</b>.  
-  I love building scalable apps, solving real-world problems, and exploring new technologies.  
-  Outside tech, I'm an active musician 🎸 (guitar, bass, violin, keyboard) and event organizer at my university. 🚀  
-</p>
-
-<div align="center">
-  
-🌱 *Currently Learning:* Angular, ASP.NET Core, Google Maps API  
-💼 *Looking for:* Software Engineering Internships & Junior Developer Roles  
-🎯 *Focus Areas:* Web Development, IoT/Embedded Systems, System Design  
+[<img alt="Email" src="https://img.shields.io/badge/Email-tharusharayandilhara21@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/>](mailto:tharusharayandilhara21@gmail.com)
+&nbsp;&nbsp;
+[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=flat&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/tharusha-rayan)
+&nbsp;&nbsp;
+[<img alt="GitHub" src="https://img.shields.io/badge/GitHub-Tharusha--Rayan-181717?style=flat&logo=github&logoColor=white"/>](https://github.com/Tharusha-Rayan)
 
 </div>
 
 ---
 
-## 🛠 Tech Stack & Tools  
-<div align="center">
+## About
+Practical and curious Software Engineering undergraduate at **University of Moratuwa** with hands-on experience in full-stack web development and embedded systems. I design and build scalable, maintainable solutions — from microcontroller prototypes to production web apps. Strong team player, quick learner, and active contributor in campus tech & music activities.
 
-![C](https://skillicons.dev/icons?i=c)
-![Cpp](https://skillicons.dev/icons?i=cpp)
-![Csharp](https://skillicons.dev/icons?i=cs)
-![Python](https://skillicons.dev/icons?i=python)
-![Java](https://skillicons.dev/icons?i=java)
-![PHP](https://skillicons.dev/icons?i=php)
-![Typescript](https://skillicons.dev/icons?i=typescript)
-![Javascript](https://skillicons.dev/icons?i=javascript)
-![Angular](https://skillicons.dev/icons?i=angular)
-![React](https://skillicons.dev/icons?i=react)
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-![SCSS](https://skillicons.dev/icons?i=sass)
-![NodeJS](https://skillicons.dev/icons?i=nodejs)
-![DotNet](https://skillicons.dev/icons?i=dotnet)
-![MySQL](https://skillicons.dev/icons?i=mysql)
-![MSSQL](https://skillicons.dev/icons?i=mongodb)
-![Firebase](https://skillicons.dev/icons?i=firebase)
-![Git](https://skillicons.dev/icons?i=git)
-![Github](https://skillicons.dev/icons?i=github)
-![Figma](https://skillicons.dev/icons?i=figma)
-![Linux](https://skillicons.dev/icons?i=linux)
-![Arduino](https://skillicons.dev/icons?i=arduino)
-
-</div>
+**Quick facts**
+- 🎓 BSc (Hons) — Information Technology, University of Moratuwa (2023 — Present)  
+- 📍 Jayabima, Chilaw, Sri Lanka — +94 74 034 5778  
+- 🎵 Musician: guitar, bass, violin, keyboard  
+- 🎯 CGPA: **3.26**
 
 ---
 
-## 📊 GitHub Analytics  
+## Technical Skills
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tharusha-Rayan&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" width="100%" alt="activity graph">
-</div>
-
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Tharusha-Rayan&show_icons=true&count_private=true&hide_border=true&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9&bg_color=0d1117" alt="Tharusha github stats" /> 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tharusha-Rayan&layout=compact&hide_border=true&title_color=6C63FF&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Tharusha Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tharusha-Rayan&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF" alt="streak stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Tharusha-Rayan&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" width="100%" alt="Trophy" align="middle" />
-</div>
+**Languages:** C · C++ · C# · Python · Java · JavaScript · TypeScript · PHP  
+**Frontend:** Angular · React · HTML · SCSS  
+**Backend:** ASP.NET Core · Node.js · Express · REST APIs  
+**Databases:** MSSQL · MySQL · MongoDB · Firebase  
+**Tools:** Git · GitHub · Docker · Figma · VS Code · Ubuntu/Windows  
+**Embedded / Hardware:** Arduino · Microcontrollers · Sensors · Motor drivers
 
 ---
 
-## 🌟 Featured Projects  
+## Selected Projects
 
-<div align="center">
-  
-| Project | Description | Tech Stack | Status |
-|---------|-------------|------------|--------|
-| *[TFSCMS](https://github.com/Tharusha-Rayan/tfscms)* | Supply Chain Management System for Tea Factory | Angular, ASP.NET Core, SQL, Google Maps API | ✅ Active |
-| *[Neuro Nest](https://github.com/Tharusha-Rayan/neuro-nest)* | Microcontroller game box + MERN web app | Arduino, Node.js, MongoDB, React | 🚧 In Progress |
-| *[Dextron Robot](https://github.com/Tharusha-Rayan/dextron-line-follower)* | PID-based line following robot | C, Arduino, sensors | ✅ Completed |
+> Links open repos (replace with your repo URLs if different)
 
-</div>
-
----
-
-## 📫 Connect with Me  
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tharusha-rayan)  
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tharusharayandilhara21@gmail.com)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tharusha-Rayan)
-
-</div>
+### TFSCMS — Tea Factory Supply Chain Management System
+**Role:** Lead web dev (logistics & route module)  
+**Summary:** End-to-end system to manage suppliers, collections, vehicle routing and payments for a tea factory. Includes interactive route planning with Google Maps integration and trip analytics.  
+**Tech:** Angular · ASP.NET Core · SQL · Google Maps API  
+**Repo:** https://github.com/Tharusha-Rayan/tfscms  
+<!-- Optional screenshot -->
+![TFSCMS screenshot](assets/tfscms-screenshot.png)
 
 ---
 
-## 🎯 Current Goals  
+### Neuro Nest — Microcontroller Game Box + Companion Web App
+**Role:** Full-stack + embedded integration  
+**Summary:** Interactive microcontroller-based game box (fingerprint login, pause safety, gameplay) with MERN web app for profiles and progress tracking.  
+**Tech:** Arduino · Node.js · Express · MongoDB · React  
+**Repo:** https://github.com/Tharusha-Rayan/neuro-nest
 
-<div align="center">
+---
 
-🚀 Master Angular & ASP.NET Core for enterprise apps  
-🌐 Build scalable full-stack solutions for real-world logistics  
-🤝 Contribute to impactful open-source projects  
-🎸 Grow as both a **developer** and **musician**  
-💡 Create innovative solutions for supply chain & IoT  
+### Dextron Line-Follower Robot
+**Role:** Embedded systems & control algorithm design  
+**Summary:** Line-following robot with PID control used in university competition (NDT Dextron). Emphasis on sensor fusion and motor control tuning.  
+**Tech:** C · Arduino · Motor drivers · PID  
+**Repo:** https://github.com/Tharusha-Rayan/dextron-line-follower
 
-</div>
+---
+
+## Experience
+
+**Data Entry** — Trader Promoters (Pvt) Ltd *(Present)*  
+- Performed data entry, maintained data integrity and assisted reporting tasks.
+
+**Assistant Technician** — Kumara Electronics *(2022–2023)*  
+- Diagnostics, hardware repairs, and customer support.
+
+**Robotics / IoT Session Mentor** — IES Labs, University of Moratuwa *(Present)*  
+- Mentored students on embedded projects and guided lab activities.
+
+**Assistant Junior Treasurer** — Classical Music Society, UoM *(Present)*  
+- Managed budgets and event finance tasks.
+
+---
+
+## Education
+
+**BSc (Hons) — Information Technology**  
+University of Moratuwa — 2023 — Present
+
+**Advanced Level (Physical Stream)** — 2021 / 2022
+
+---
+
+## Achievements & Activities
+- Mentor for university robotics and IoT sessions.  
+- Active member & event organiser — Classical Music Society (UoM).  
+- Represented university projects in internal competitions (robotics, embedded prototypes).
+
+---
+
+## Open to
+- Internship / Junior Software Engineer roles (Full-Stack / .NET / Frontend)  
+- Collaborative projects in logistics, IoT, and web platforms  
+- Mentoring or small freelance work (web + embedded)
+
+---
+
+## Contact
+- Email: tharusharayandilhara21@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/tharusha-rayan  
+- GitHub: https://github.com/Tharusha-Rayan  
+- Phone: +94 74 034 5778
+
+---
+
+## How to Showcase Projects (optional)
+1. Add a short screenshot for each repo under `assets/` (e.g. `assets/tfscms-screenshot.png`) and commit them.  
+2. In each project repo add a clear `README.md` with **Setup**, **Run**, and **Screenshots** sections.  
+3. For demo-ready projects, include a `live/` or `gh-pages` link.
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer" width="100%" />
-  
-  *Thanks for visiting! Let's connect and build something amazing together* 🚀
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=Tharusha-Rayan&style=flat-square&color=6C63FF)
+  <sub>If you'd like, I can also:</sub>
+  <ul>
+    <li>convert this to a GitHub Profile README with dynamic stats cards and language bars,</li>
+    <li>generate per-project README templates (setup + run scripts), or</li>
+    <li>create compressed portfolio images/screenshots you can drop into each repo.</li>
+  </ul>
 </div>
