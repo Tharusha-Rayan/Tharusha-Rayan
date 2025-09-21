@@ -1,31 +1,31 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"> Welcome to My Digital Space
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=Nayodya&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Creating%20Digital%20Experiences%20|%20One%20Line%20at%20a%20Time&descAlignY=55&descSize=18" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=Tharusha%20Rayan&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Creating%20Scalable%20Solutions%20|%20Full%20Stack%20Developer%20%7C%20Embedded%20Systems&descAlignY=55&descSize=18" width="100%" />
 </div>
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=500&lines=Full+Stack+Developer+%F0%9F%92%BB;Software+Engineer+%F0%9F%9A%80;Problem+Solver+%F0%9F%A7%A9;Tech+Enthusiast+%E2%9C%A8;Open+Source+Contributor+%F0%9F%8C%9F)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Software+Engineering+Intern+%F0%9F%9A%80;Full+Stack+Developer+%F0%9F%92%BB;Embedded+Systems+Enthusiast+%E2%9C%A8;Problem+Solver+%F0%9F%A7%A9;Tech+Explorer+%F0%9F%8C%9F)](https://git.io/typing-svg)
   
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
 <br clear="right"/>
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me  
 
 <p align="center">
-  I'm a passionate <b>Full Stack Developer</b> and <b>Software Engineer</b> who loves turning complex problems into elegant solutions.  
-  My work focuses on creating scalable applications and meaningful digital experiences that make a difference.  
-  I enjoy exploring new technologies, contributing to open-source projects. 🚀  
+  I'm a <b>Software Engineering undergraduate</b> at the <b>University of Moratuwa</b>, passionate about <b>Full Stack Development</b> and <b>Embedded Systems</b>.  
+  I love building scalable apps, solving real-world problems, and exploring new technologies.  
+  Outside tech, I'm an active musician 🎸 (guitar, bass, violin, keyboard) and event organizer at my university. 🚀  
 </p>
 
 <div align="center">
   
-🌱 *Currently Learning:* Advanced React Patterns, Cloud Architecture, Machine Learning  
-💼 *Looking for:* Exciting opportunities in Full Stack Development & Software Engineering  
-🎯 *Focus Areas:* Web Development, System Design, Open Source Contributions  
+🌱 *Currently Learning:* Angular, ASP.NET Core, Google Maps API  
+💼 *Looking for:* Software Engineering Internships & Junior Developer Roles  
+🎯 *Focus Areas:* Web Development, IoT/Embedded Systems, System Design  
 
 </div>
 
@@ -34,82 +34,90 @@
 ## 🛠 Tech Stack & Tools  
 <div align="center">
 
-![JavaScript](https://skillicons.dev/icons?i=javascript)
+![C](https://skillicons.dev/icons?i=c)
+![Cpp](https://skillicons.dev/icons?i=cpp)
+![Csharp](https://skillicons.dev/icons?i=cs)
 ![Python](https://skillicons.dev/icons?i=python)
 ![Java](https://skillicons.dev/icons?i=java)
-![Cpp](https://skillicons.dev/icons?i=cpp)
 ![PHP](https://skillicons.dev/icons?i=php)
-![TypeScript](https://skillicons.dev/icons?i=typescript)
+![Typescript](https://skillicons.dev/icons?i=typescript)
+![Javascript](https://skillicons.dev/icons?i=javascript)
+![Angular](https://skillicons.dev/icons?i=angular)
 ![React](https://skillicons.dev/icons?i=react)
 ![HTML](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
-![Tailwind](https://skillicons.dev/icons?i=tailwind)
+![SCSS](https://skillicons.dev/icons?i=sass)
 ![NodeJS](https://skillicons.dev/icons?i=nodejs)
+![DotNet](https://skillicons.dev/icons?i=dotnet)
 ![MySQL](https://skillicons.dev/icons?i=mysql)
-![PostgreSQL](https://skillicons.dev/icons?i=postgres)
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![MSSQL](https://skillicons.dev/icons?i=mongodb)
+![Firebase](https://skillicons.dev/icons?i=firebase)
 ![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-![VSCode](https://skillicons.dev/icons?i=vscode)
-![Docker](https://skillicons.dev/icons?i=docker)
-![AWS](https://skillicons.dev/icons?i=aws)
+![Github](https://skillicons.dev/icons?i=github)
+![Figma](https://skillicons.dev/icons?i=figma)
 ![Linux](https://skillicons.dev/icons?i=linux)
+![Arduino](https://skillicons.dev/icons?i=arduino)
 
 </div>
 
-## 📊 GitHub Analytics
+---
+
+## 📊 GitHub Analytics  
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nayodya&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" width="100%" alt="activity graph">
-</div>
-
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=nayodya&show_icons=true&count_private=true&hide_border=true&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9&bg_color=0d1117" alt="Nayodya github stats" /> 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayodya&layout=compact&hide_border=true&title_color=6C63FF&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Nayodya Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tharusha-Rayan&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" width="100%" alt="activity graph">
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nayodya&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF" alt="nayodya" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Tharusha-Rayan&show_icons=true&count_private=true&hide_border=true&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9&bg_color=0d1117" alt="Tharusha github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tharusha-Rayan&layout=compact&hide_border=true&title_color=6C63FF&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Tharusha Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nayodya&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" width="100%" alt="Trophy" align="middle" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tharusha-Rayan&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF" alt="streak stats" />
 </div>
 
-## 🌟 Featured Projects
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Tharusha-Rayan&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" width="100%" alt="Trophy" align="middle" />
+</div>
+
+---
+
+## 🌟 Featured Projects  
 
 <div align="center">
   
 | Project | Description | Tech Stack | Status |
 |---------|-------------|------------|--------|
-| *[Project Alpha](https://github.com/nayodya/project-alpha)* | Full-stack web application with modern UI | React, Node.js, MongoDB | ✅ Active |
-| *[Project Beta](https://github.com/nayodya/project-beta)* | Mobile-responsive dashboard | JavaScript, CSS3, API | 🚧 In Progress |
-| *[Project Gamma](https://github.com/nayodya/project-gamma)* | Open-source utility tool | Python, CLI | 💡 Planning |
+| *[TFSCMS](https://github.com/Tharusha-Rayan/tfscms)* | Supply Chain Management System for Tea Factory | Angular, ASP.NET Core, SQL, Google Maps API | ✅ Active |
+| *[Neuro Nest](https://github.com/Tharusha-Rayan/neuro-nest)* | Microcontroller game box + MERN web app | Arduino, Node.js, MongoDB, React | 🚧 In Progress |
+| *[Dextron Robot](https://github.com/Tharusha-Rayan/dextron-line-follower)* | PID-based line following robot | C, Arduino, sensors | ✅ Completed |
 
 </div>
 
-## 📫 Connect with Me
+---
+
+## 📫 Connect with Me  
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nayodya)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nayodya)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nayodya.dev)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tharusha-rayan)  
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tharusharayandilhara21@gmail.com)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tharusha-Rayan)
 
 </div>
 
-## 🎯 Current Goals
+---
+
+## 🎯 Current Goals  
 
 <div align="center">
 
-
-🚀 Master advanced React patterns and state management
-🌐 Build scalable full-stack applications
-🤝 Contribute to major open-source projects
-📚 Share knowledge through technical writing
-💡 Create innovative solutions for real-world problems
-
+🚀 Master Angular & ASP.NET Core for enterprise apps  
+🌐 Build scalable full-stack solutions for real-world logistics  
+🤝 Contribute to impactful open-source projects  
+🎸 Grow as both a **developer** and **musician**  
+💡 Create innovative solutions for supply chain & IoT  
 
 </div>
 
@@ -120,6 +128,5 @@
   
   *Thanks for visiting! Let's connect and build something amazing together* 🚀
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=nayodya&style=flat-square&color=6C63FF)
-  
+  ![Profile Views](https://komarev.com/ghpvc/?username=Tharusha-Rayan&style=flat-square&color=6C63FF)
 </div>
