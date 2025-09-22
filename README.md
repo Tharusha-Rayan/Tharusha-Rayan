@@ -91,7 +91,7 @@
 |---------|-------------|------------|--------|
 | *[TFSCMS](https://github.com/Tharusha-Rayan/tfscms)* | Supply Chain Management System for Tea Factory | Angular, ASP.NET Core, SQL, Google Maps API |  Active |
 | *[Neuro Nest](https://github.com/Tharusha-Rayan/neuro-nest)* | Microcontroller game box + MERN web app | Arduino, Node.js, MongoDB, React |Completed |
-| *[Dextron Robot](https://github.com/Tharusha-Rayan/dextron-line-follower)* | PID-based line following robot | C, Arduino, sensors | ✅ Completed |
+| *[Dextron Robot](https://github.com/Tharusha-Rayan/dextron-line-follower)* | PID-based line following robot | C, Arduino, sensors | Completed |
 
 </div>
 
