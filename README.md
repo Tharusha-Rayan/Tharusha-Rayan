@@ -28,7 +28,7 @@ When I'm not writing code, you'll find me tinkering with **embedded systems & Io
 name:       Tharusha Rayan
 university: University of Moratuwa 🇱🇰
 degree:     BSc (Hons) Information Technology
-focus:      Full Stack Development · Embedded & IoT
+focus:      Full Stack Development
 currently:  Building enterprise & open-source projects
 looking_for: Software Engineering Internship 🎯
 ```
