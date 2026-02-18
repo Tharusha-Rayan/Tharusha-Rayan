@@ -1,6 +1,215 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,50:1e1b4b,100:4f46e5&height=260&section=header&text=Hey%2C%20I'm%20Tharusha%20%F0%9F%91%8B&fontSize=52&fontColor=ffffff&fontAlignY=42&desc=I%20build%20things%20for%20the%20web%2C%20mobile%20%26%20beyond&descAlignY=62&descSize=18&animation=fadeIn" width="100%"/>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Banner</title>
+<link href="https://fonts.googleapis.com/css2?family=Syne:wght@700;800&family=DM+Sans:wght@300;400&display=swap" rel="stylesheet">
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    background: #0d0d1a;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+  }
+
+  .banner {
+    width: 100%;
+    max-width: 900px;
+    position: relative;
+    overflow: hidden;
+    border-radius: 0;
+  }
+
+  /* SVG WAVE CONTAINER */
+  .banner svg.wave-top {
+    display: block;
+    width: 100%;
+  }
+
+  /* MAIN BODY */
+  .banner-body {
+    background: linear-gradient(135deg, #0d0d1a 0%, #1e1b4b 50%, #4f46e5 100%);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 3rem 2rem 2rem;
+    position: relative;
+    overflow: hidden;
+  }
+
+  /* Animated particles */
+  .banner-body::before {
+    content: '';
+    position: absolute;
+    width: 400px; height: 400px;
+    border-radius: 50%;
+    background: radial-gradient(circle, rgba(99,102,241,0.25) 0%, transparent 70%);
+    top: -100px; right: -80px;
+    animation: floatA 8s ease-in-out infinite;
+  }
+  .banner-body::after {
+    content: '';
+    position: absolute;
+    width: 300px; height: 300px;
+    border-radius: 50%;
+    background: radial-gradient(circle, rgba(139,92,246,0.2) 0%, transparent 70%);
+    bottom: -80px; left: -60px;
+    animation: floatB 10s ease-in-out infinite;
+  }
+
+  @keyframes floatA {
+    0%,100% { transform: translate(0,0) scale(1); }
+    50% { transform: translate(-30px, 20px) scale(1.1); }
+  }
+  @keyframes floatB {
+    0%,100% { transform: translate(0,0) scale(1); }
+    50% { transform: translate(20px, -25px) scale(1.08); }
+  }
+
+  /* Floating dots */
+  .dot {
+    position: absolute;
+    border-radius: 50%;
+    background: rgba(255,255,255,0.15);
+    animation: drift linear infinite;
+  }
+  .dot:nth-child(1)  { width:4px;  height:4px;  top:20%; left:10%; animation-duration:12s; animation-delay:0s; }
+  .dot:nth-child(2)  { width:6px;  height:6px;  top:60%; left:20%; animation-duration:18s; animation-delay:2s; }
+  .dot:nth-child(3)  { width:3px;  height:3px;  top:35%; left:75%; animation-duration:14s; animation-delay:4s; }
+  .dot:nth-child(4)  { width:5px;  height:5px;  top:75%; left:85%; animation-duration:16s; animation-delay:1s; }
+  .dot:nth-child(5)  { width:4px;  height:4px;  top:15%; left:55%; animation-duration:20s; animation-delay:3s; }
+  .dot:nth-child(6)  { width:7px;  height:7px;  top:50%; left:45%; animation-duration:22s; animation-delay:5s; }
+
+  @keyframes drift {
+    0%   { transform: translateY(0px) rotate(0deg); opacity: 0.4; }
+    50%  { transform: translateY(-40px) rotate(180deg); opacity: 0.8; }
+    100% { transform: translateY(0px) rotate(360deg); opacity: 0.4; }
+  }
+
+  /* TEXT */
+  .banner-content {
+    position: relative;
+    z-index: 2;
+    text-align: center;
+  }
+
+  .greeting {
+    font-family: 'Syne', sans-serif;
+    font-size: clamp(2.2rem, 5vw, 3.6rem);
+    font-weight: 800;
+    color: #ffffff;
+    letter-spacing: -0.02em;
+    line-height: 1.1;
+    animation: fadeSlideDown 0.9s cubic-bezier(.22,1,.36,1) both;
+  }
+
+  .wave-emoji {
+    display: inline-block;
+    animation: wave 2.2s ease-in-out infinite;
+    transform-origin: 70% 80%;
+  }
+
+  @keyframes wave {
+    0%,60%,100% { transform: rotate(0deg); }
+    10%,30% { transform: rotate(18deg); }
+    20% { transform: rotate(-8deg); }
+    40% { transform: rotate(12deg); }
+    50% { transform: rotate(-4deg); }
+  }
+
+  .tagline {
+    font-family: 'DM Sans', sans-serif;
+    font-size: clamp(0.95rem, 2vw, 1.15rem);
+    font-weight: 300;
+    color: rgba(255,255,255,0.75);
+    margin-top: 0.9rem;
+    letter-spacing: 0.02em;
+    animation: fadeSlideDown 0.9s 0.2s cubic-bezier(.22,1,.36,1) both;
+  }
+
+  /* Accent line */
+  .accent-line {
+    width: 60px;
+    height: 3px;
+    background: linear-gradient(90deg, #818cf8, #a78bfa);
+    border-radius: 2px;
+    margin: 1.2rem auto 0;
+    animation: expandLine 1s 0.5s ease both;
+  }
+  @keyframes expandLine {
+    from { width: 0; opacity: 0; }
+    to   { width: 60px; opacity: 1; }
+  }
+
+  @keyframes fadeSlideDown {
+    from { opacity: 0; transform: translateY(-16px); }
+    to   { opacity: 1; transform: translateY(0); }
+  }
+
+  /* BOTTOM WAVE */
+  .wave-bottom {
+    display: block;
+    width: 100%;
+    background: linear-gradient(135deg, #0d0d1a 0%, #1e1b4b 50%, #4f46e5 100%);
+  }
+</style>
+</head>
+<body>
+
+<div class="banner">
+
+  <!-- TOP WAVE -->
+  <svg class="wave-top" viewBox="0 0 1200 60" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="topGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%"   stop-color="#0d0d1a"/>
+        <stop offset="50%"  stop-color="#1e1b4b"/>
+        <stop offset="100%" stop-color="#4f46e5"/>
+      </linearGradient>
+    </defs>
+    <path d="M0,0 L1200,0 L1200,20 Q1050,60 900,35 Q750,10 600,40 Q450,65 300,30 Q150,0 0,45 Z" fill="url(#topGrad)"/>
+  </svg>
+
+  <!-- MAIN CONTENT -->
+  <div class="banner-body">
+    <!-- floating dots -->
+    <div class="dot"></div>
+    <div class="dot"></div>
+    <div class="dot"></div>
+    <div class="dot"></div>
+    <div class="dot"></div>
+    <div class="dot"></div>
+
+    <div class="banner-content">
+      <div class="greeting">Hey, I'm Tharusha <span class="wave-emoji">👋</span></div>
+      <div class="tagline">I build things for the web, mobile &amp; beyond</div>
+      <div class="accent-line"></div>
+    </div>
+  </div>
+
+  <!-- BOTTOM WAVE -->
+  <svg class="wave-bottom" viewBox="0 0 1200 60" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="botGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%"   stop-color="#4f46e5"/>
+        <stop offset="50%"  stop-color="#1e1b4b"/>
+        <stop offset="100%" stop-color="#0d0d1a"/>
+      </linearGradient>
+    </defs>
+    <path d="M0,60 L1200,60 L1200,15 Q1050,0 900,30 Q750,55 600,20 Q450,-5 300,35 Q150,60 0,20 Z" fill="url(#botGrad)"/>
+  </svg>
+
+</div>
+
+</body>
+</html>
 
 </div>
 
