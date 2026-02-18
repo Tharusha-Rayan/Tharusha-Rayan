@@ -1,164 +1,132 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=6c63ff,b86cff,ff63c0&height=250&section=header&text=Tharusha%20Rayan&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineering%20Undergraduate%20|%20Full%20Stack%20Developer%20|%20Embedded%20Systems%20|%20Musician&descAlignY=60&descSize=18" width="100%" />
-</div>
+  <h1>Tharusha Rayan</h1>
+  <p>
+    Software Engineering Undergraduate · Full Stack Developer · Embedded & IoT Enthusiast
+  </p>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&pause=1000&color=FF63C0&center=true&vCenter=true&width=700&lines=Software+Engineering+Undergraduate;Full+Stack+Developer;Embedded+%26+IoT+Enthusiast;Problem+Solver;Musician+%F0%9F%8E%B8" />
+  <p>
+    <a href="https://www.linkedin.com/in/tharusha-rayan">LinkedIn</a> ·
+    <a href="mailto:tharusharayandilhara21@gmail.com">Email</a> ·
+    <a href="https://tharusha-rayan-dev.vercel.app/">Portfolio</a> ·
+    <a href="https://github.com/Tharusha-Rayan">GitHub</a>
+  </p>
 </div>
 
 ---
 
 ## 👋 About Me
 
-I’m **Tharusha Rayan**, a **Software Engineering undergraduate** at the **University of Moratuwa, Sri Lanka** (CGPA: **3.47**).  
-I have a strong foundation in **programming**, **full-stack web development**, and **embedded systems**, with hands-on experience building **enterprise-level applications**.
+I am a **Software Engineering undergraduate** at the **University of Moratuwa, Sri Lanka** (CGPA: **3.47**), with strong hands-on experience in **full-stack web development** and **enterprise applications**.
 
-I’m actively seeking a **Software Engineering Internship** where I can apply my skills, gain real-world industry experience, and contribute to impactful projects.
-
-Beyond tech, I’m a **musician** 🎸 and university event organizer — I believe creativity and engineering go best together.
+I am actively seeking a **Software Engineering Internship** where I can apply my technical skills, gain industry exposure, and contribute to real-world systems.
 
 ---
 
 ## 🎓 Education
 
-- **BSc (Hons) in Information Technology**  
-  *University of Moratuwa* | **2023 – Present**  
-  **CGPA:** 3.47
-
-- **Advanced Level – 2021**  
-  *St. Mary’s College, Chilaw*  
-  Combined Mathematics, Physics, ICT  
-  **Z-Score:** 1.48
+**BSc (Hons) in Information Technology**  
+University of Moratuwa | 2023 – Present  
+CGPA: **3.47**
 
 ---
 
-## 🛠 Technical Skills
+## 🧠 Technical Skills
 
 ### Programming Languages
-`C` `C++` `C#` `Java` `Python` `PHP` `JavaScript` `TypeScript`
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,php,js,ts" />
+</p>
 
-### Frontend
-`Angular` `React` `HTML` `CSS` `SCSS` `Tailwind CSS`
+### Frontend Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=angular,react,html,css,scss,tailwind" />
+</p>
 
-### Backend
-`Node.js` `Express.js` `ASP.NET Core`
+### Backend Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet" />
+</p>
 
 ### Databases
-`MSSQL` `PostgreSQL` `MongoDB` `Firebase`
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase" />
+</p>
 
 ### Tools & Platforms
-`Git` `GitHub` `Linux (Ubuntu)` `Figma` `Arduino`
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,figma,arduino" />
+</p>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
-### 🌿 Tea Factory Supply Chain Management System (Group)
+### Tea Factory Supply Chain Management System (Group)
 🔗 https://github.com/TharinduMahesh/TFSMS_NextGenNerds
 
-Enterprise web & mobile system to digitize **tea factory operations**, replacing manual paper-based workflows.
+- Enterprise web & mobile system automating tea factory operations  
+- Digitized green leaf collection, inventory, payments & reporting  
+- **My contribution:** Transportation management with Google Maps route tracking and cost analytics  
 
-**Key Features**
-- Green leaf collection tracking  
-- Supplier & farmer management  
-- Automated payments  
-- Inventory management  
-- Role-based access control  
-- Reporting dashboards  
-
-**My Contribution**
-- Transportation management with **Google Maps route tracking**
-- Cost analytics & performance monitoring dashboards
-
-**Tech Stack:** Angular, ASP.NET Core, MSSQL, Google Maps API, Flutter
+**Tech:** Angular, ASP.NET Core, MSSQL, Google Maps API, Flutter
 
 ---
 
-### 🛒 ShopMart – E-Commerce Platform (Individual)
+### ShopMart – E-Commerce Platform (Individual)
 🔗 https://github.com/Tharusha-Rayan/ShopMart
 
-Full-stack marketplace connecting buyers and sellers with a complete digital transaction flow.
+- Full-stack marketplace for buyers & sellers  
+- Secure authentication, order tracking, refunds & notifications  
 
-**Features**
-- Authentication & RBAC  
-- Product catalog, search & filters  
-- Cart & secure checkout  
-- Order tracking & refunds  
-- Reviews, wishlist & notifications  
-
-**Tech Stack:** React, Node.js, Express.js, MongoDB
+**Tech:** React, Node.js, Express.js, MongoDB
 
 ---
 
-### 🤖 Autocare 360 – Vehicle Service Management (Group)
+### Autocare 360 – Vehicle Service Management (Group)
 🔗 https://github.com/Chamithjay/auto_service_frontend
 
-Vehicle service management system to eliminate manual booking and service delays.
+- Automated service booking & customer tracking  
+- **My contribution:** Chatbot support & notification system  
 
-**My Contribution**
-- Chatbot support  
-- Notification system for users & staff  
-
-**Tech Stack:** React (Vite), Spring Boot, PostgreSQL
+**Tech:** React, Spring Boot, PostgreSQL
 
 ---
 
-### 🎓 EduLearn – E-Learning Platform (Individual)
+### EduLearn – E-Learning Platform (Individual)
 🔗 https://github.com/Tharusha-Rayan/E-Learning-System
 
-Web-based learning management system for digital course delivery.
+- Digital course delivery platform with quizzes & certificates  
 
-**Modules**
-- Authentication & roles  
-- Courses & categories  
-- Assignments & quizzes  
-- Discussions & certificates  
-- Admin dashboards  
-
-**Tech Stack:** Angular, ASP.NET Core, MSSQL
+**Tech:** Angular, ASP.NET Core, MSSQL
 
 ---
 
-## 🧠 Leadership & Activities
+## 🏆 Leadership & Activities
 
-- **Director of Facilitate** – Catholic Student Movement, UoM  
-- **Assistant Treasurer** – Catholic Student Movement, UoM  
-- **Robotics & IoT Mentor** – IES Labs, UoM  
-- **Unit Representative** – Sri Lanka University Catholic Student Movement  
-
-### 🎵 Music & Events
-- Bass & rhythm guitarist  
-- Performed at major university events: *Yathra, Binara Pedura, Yaye Pedura*  
-- Organized career fairs & charity events
+- Director of Facilitate – Catholic Student Movement, University of Moratuwa  
+- Robotics & IoT Session Mentor – IES Labs, University of Moratuwa  
+- Unit Representative – Sri Lanka University Catholic Student Movement  
 
 ---
 
-## 📫 Connect With Me
+## 🎯 Career Objectives
+
+- Build scalable enterprise applications  
+- Strengthen expertise in Angular & ASP.NET Core  
+- Contribute to open-source projects  
+- Grow as a full-stack and embedded systems engineer  
+
+---
 
 <div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel)](https://tharusha-rayan-dev.vercel.app/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tharusha-rayan)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:tharusharayandilhara21@gmail.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Tharusha-Rayan)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Tharusha-Rayan&show_icons=true&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tharusha-Rayan&layout=compact&hide_border=true" width="48%" />
 </div>
 
 ---
 
-## 🎯 Career Goals
-
-- Build scalable **enterprise-grade applications**
-- Deepen expertise in **Angular & ASP.NET Core**
-- Contribute to **open-source projects**
-- Innovate at the intersection of **software, IoT & creativity**
-
----
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=ff63c0,b86cff,6c63ff&height=100&section=footer" width="100%" />
-  
-  ⭐ *Thanks for visiting! Let’s build something meaningful together.* ⭐
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=Tharusha-Rayan&style=flat-square&color=FF63C0)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Tharusha-Rayan&style=flat-square)
+
 </div>
