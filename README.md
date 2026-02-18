@@ -30,7 +30,6 @@ university: University of Moratuwa 🇱🇰
 degree:     BSc (Hons) Information Technology
 focus:      Full Stack Development
 currently:  Building enterprise & open-source projects
-looking_for: Software Engineering Internship 🎯
 ```
 
 <br clear="right"/>
