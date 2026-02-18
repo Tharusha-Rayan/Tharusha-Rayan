@@ -53,7 +53,7 @@ currently:  Building enterprise & open-source projects
     <td align="center" width="33%">
       <img src="https://img.shields.io/badge/-Embedded-1e1b4b?style=for-the-badge" /><br/><br/>
       <b>Embedded & IoT</b><br/>
-      <sub>C / C++ · Arduino · Raspberry Pi<br/>Hardware meets software</sub>
+      <sub>C / C++ · Arduino </sub>
     </td>
   </tr>
 </table>
